@@ -1,5 +1,5 @@
 # Centauri
-An open source Android app for members of VikingsDev <br>
+Track, view, and record your bounties, all in one place <br>
 Looking for bounties? Great, let's get started! <br>
 ## Installing Android Studio
 First, download and install [Android Studio](https://developer.android.com/studio) <br>

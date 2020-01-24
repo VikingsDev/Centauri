@@ -11,7 +11,11 @@ In Github, the first step is to fork this repository into your own Github profil
     (If you don't know what forking is, [this example](https://help.github.com/en/github/getting-started-with-github/fork-a-repo#fork-an-example-repository) could be helpful.) <br>
 In the top right corner, click the button that says `fork` and fork the repository under your own profile. <br>
 ## Cloning the repository to a local development environment
+Navigate to a folder in your computer where you would like this repository to be cloned to. In terminal or bash, use this command:<br>
 ```git clone github.com/VikingsDev/Centauri```
+Great! Now your project is accessible on your computer.
+## Testing the application
+something about virtual android instances, testing on your phone, and etc.<br>
 ## Contribution Guidelines
 Each page of the application is marked in it's own Activity. Please use a consistent naming scheme (<i>Function</i>Activity.java) when creating new activities. <br><br>
 Please ensure you are on the latest version of the repository before you are working. If you are not, create another pull request and pull the latest version to your local repository. <br><br>

@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "530387281551",
+    "firebase_url": "https://vikingsdev-board.firebaseio.com",
+    "project_id": "vikingsdev-board",
+    "storage_bucket": "vikingsdev-board.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:530387281551:android:2df8a697cd2e24c0e932fa",
+        "android_client_info": {
+          "package_name": "ca.vikingsdev.centauri"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "530387281551-ur6f6dv8p3o4kh5lcbqvq7vqg2h9ro3g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9gEzoYcFgtck2ozs0LhJsF3HgjZoYGiM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "530387281551-ur6f6dv8p3o4kh5lcbqvq7vqg2h9ro3g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

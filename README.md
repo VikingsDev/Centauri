@@ -20,5 +20,6 @@ something about virtual android instances, testing on your phone, and etc.<br>
 Each page of the application is marked in it's own Activity. Please use a consistent naming scheme (<i>Function</i>Activity.java) when creating new activities. <br><br>
 Please ensure you are on the latest version of the repository before you are working. If you are not, create another pull request and pull the latest version to your local repository. <br><br>
 Before contributing, check the issues tab and see if your contribution has an item for it. If there is an item, assign yourself as someone to work on it. If there is no issue, create a new item and assign yourself to it. To avoid merge conflicts, please ensure there is no other issue that uses the same files as the ones you are editing, and please add an issue for every edit you make.<br><br>
-To create an issue, please name it "Name of task that you are working on (filename.fileext)". This way, people can see what files you are working on at a glance.
+To create an issue, please name it "Name of task that you are working on (filename.fileext)". This way, people can see what files you are working on at a glance.<br><br>
+Wireframes are also used to establish the layout of an activity before it is actually made. Please consult the wireframe folder to see if there are any wireframes that exist for the activity you are working on<br>
 somebody please finish this readme

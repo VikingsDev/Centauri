@@ -4,6 +4,7 @@ Looking for bounties? Great, let's get started! <br>
 ## Installing Android Studio
 First, download and install [Android Studio](https://developer.android.com/studio) <br>
 Install the latest API and SDK, so that the app is running on the right Android Version.<br>
+Centauri runs on the `Android 8.0` SDK<br>
 Once its installed, get ready to get to work!<br>
 ## Forking this repository
 In Github, the first step is to fork this repository into your own Github profile.<br>

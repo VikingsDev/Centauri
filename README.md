@@ -12,7 +12,8 @@ In the top right corner, click the button that says `fork` and fork the reposito
 ## Cloning the repository to a local development environment
 ```git clone github.com/VikingsDev/Centauri```
 ## Contribution Guidelines
-Each page of the application is marked in it's own Activity. Please use a consistent naming scheme (<i>Function</i>Activity.java) when creating new activities. <br>
-Please ensure you are on the latest version of the repository before you are working. If you are not, create another pull request and pull the latest version to your local repository. <br>
-Before contributing, check the issues tab and see if your contribution has an item for it. If there is an item, assign yourself as someone to work on it. If there is no issue, create a new item and assign yourself to it. To avoid merge conflicts, please ensure there is no other issue that uses the same files as the ones you are editing, and please add an issue for every edit you make.<br>
+Each page of the application is marked in it's own Activity. Please use a consistent naming scheme (<i>Function</i>Activity.java) when creating new activities. <br><br>
+Please ensure you are on the latest version of the repository before you are working. If you are not, create another pull request and pull the latest version to your local repository. <br><br>
+Before contributing, check the issues tab and see if your contribution has an item for it. If there is an item, assign yourself as someone to work on it. If there is no issue, create a new item and assign yourself to it. To avoid merge conflicts, please ensure there is no other issue that uses the same files as the ones you are editing, and please add an issue for every edit you make.<br><br>
+To create an issue, please name it "Name of task that you are working on (filename.fileext)". This way, people can see what files you are working on at a glance.
 somebody please finish this readme
